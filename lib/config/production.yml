@@ -1,0 +1,18 @@
+:google_url: https://www.google.com.ua
+
+:subscriber_sr_investment_advisor_username: awalker
+:subscriber_president_username: willson
+:subscriber_founder_username: jackson
+:subscriber_ceo_username: paprick
+:subscriber_password: Great12#
+
+:corporate_username: kengulliver
+:corporate_password: password
+
+#Capybara configuration
+:wait_time: 15
+:default_selector: :css
+:run_server: false
+:ignore_hidden_elements: false
+:match: :prefer_exact
+:driver: selenium
